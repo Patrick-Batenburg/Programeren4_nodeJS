@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-web-app_les1",
+  "version": "1.0.0",
+  "description": "NodejsWebApp_Les1",
+  "main": "server.js",
+  "author": "Patrick",
+  "dependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "license": "ISC"
+}
