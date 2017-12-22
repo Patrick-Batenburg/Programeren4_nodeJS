@@ -1,6 +1,6 @@
 {
     "webPort": "3000",
     "dbHost": "localhost",
-    "dbUser": "todolist_user",
+    "dbUser": "root",
     "dbDatabase": "todolist"
 }
