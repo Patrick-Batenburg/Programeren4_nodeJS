@@ -1,5 +1,5 @@
 {
-    "webPort": "3000",
+    "webPort": "4001",
     "dbHost": "localhost",
     "dbUser": "root",
     "dbDatabase": "todolist"
